@@ -1,0 +1,1 @@
+Create table temp (roll_no varchar2(10) name varchar2(15));S

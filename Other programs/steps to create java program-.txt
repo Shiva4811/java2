@@ -1,0 +1,4 @@
+steps to create java program:-
+1.) write the program       :- Editor    :- File.java
+2.) Compile the program     :- Java compiler    Hathi.class
+3.) Runt the program        :- Runtime Environment   Output

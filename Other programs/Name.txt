@@ -1,0 +1,9 @@
+class Name
+{
+public static void main(String args[])
+{
+String name="DD singh";
+int age="39";
+System.out.println("Name is" +name+"Age is" +age);
+}
+}
